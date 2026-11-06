@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# WorkBuddy 工作区数据
+.workbuddy/
+
+# 依赖
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# 环境变量
+.env
+.env.local
